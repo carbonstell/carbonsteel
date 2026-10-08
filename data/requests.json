@@ -1,0 +1,138 @@
+[
+  {
+    "id": "5282f9f8-df80-4ec2-a834-02b191f3adc0",
+    "trackingCode": "155507",
+    "createdAt": "2026-09-27T12:50:27.886Z",
+    "updatedAt": "2026-09-28T10:48:40.265Z",
+    "status": "quoted",
+    "customerName": "علی",
+    "companyName": "روستازاده",
+    "phone": "0913123456",
+    "email": "",
+    "address": "",
+    "items": [
+      {
+        "id": "dc28f2e1-ef06-4d90-8cdd-0e15edfda3cd",
+        "description": "لوله 3 اینچ مانسمان",
+        "quantity": 1,
+        "unit": "عدد",
+        "unitPrice": 1000000,
+        "totalPrice": 1000000
+      },
+      {
+        "id": "639c0b7b-d8a0-4337-927e-e0b034d7cc88",
+        "description": "زانو 4 مانسما",
+        "quantity": 1,
+        "unit": "عدد",
+        "unitPrice": 155000,
+        "totalPrice": 155000
+      }
+    ],
+    "notes": "",
+    "validityDays": 4,
+    "validUntil": "2026-10-02T10:48:40.263Z",
+    "totalAmount": 1155000,
+    "adminNotes": "",
+    "deliveryTime": "1",
+    "deliveryLocation": "",
+    "quotedAt": "2026-09-28T10:48:40.263Z"
+  },
+  {
+    "id": "d1296ce9-3fa5-455e-8810-f61323a808d5",
+    "trackingCode": "165088",
+    "createdAt": "2026-09-24T05:22:15.921Z",
+    "updatedAt": "2026-09-24T05:25:44.744Z",
+    "status": "quoted",
+    "customerName": "علوی",
+    "companyName": "کربن استیل شهباز",
+    "phone": "09132083347",
+    "email": "Naghizadeh.co@gmail.com",
+    "address": "",
+    "items": [
+      {
+        "id": "6f2c9b07-44f2-4118-a485-3fcdb5c32329",
+        "description": "لوله کربن استیل سایز 12",
+        "quantity": 4,
+        "unit": "عدد",
+        "unitPrice": 2000000,
+        "totalPrice": 8000000
+      }
+    ],
+    "notes": "",
+    "validityDays": 1,
+    "validUntil": "2026-09-25T05:25:44.743Z",
+    "totalAmount": 8000000,
+    "adminNotes": "1-هزینه های مربوط به حمل با درخواست کننده می باشد \n2-واریز یک سوم مبلغ فاکتور جهت ثبت قیمت نهایی  پیش خرید الزامی می باشد\n",
+    "deliveryTime": "2",
+    "deliveryLocation": "درب شرکت",
+    "quotedAt": "2026-09-24T05:25:44.743Z"
+  },
+  {
+    "id": "068b272d-ded5-4992-ae1d-0ce44ab2a77f",
+    "trackingCode": "126266",
+    "createdAt": "2026-09-23T08:15:45.824Z",
+    "updatedAt": "2026-09-23T08:16:59.769Z",
+    "status": "quoted",
+    "customerName": "زاده",
+    "companyName": "کربن استیل شهباز",
+    "phone": "09132083347",
+    "email": "Naghizadeh.co@gmail.com",
+    "address": "",
+    "items": [
+      {
+        "id": "436b19cc-4896-4eed-bd1e-b61f9d923686",
+        "description": "لوله جوشی سایز 10",
+        "quantity": 20,
+        "unit": "عدد",
+        "unitPrice": 1000000,
+        "totalPrice": 20000000
+      },
+      {
+        "id": "a590fc93-556a-4f1e-8220-2ed821553500",
+        "description": "زانو ورتی کوتاه 15",
+        "quantity": 100,
+        "unit": "عدد",
+        "unitPrice": 15000000,
+        "totalPrice": 1500000000
+      }
+    ],
+    "notes": "",
+    "validityDays": 4,
+    "validUntil": "2026-09-27T08:16:59.768Z",
+    "totalAmount": 1520000000,
+    "adminNotes": "اعغرعغزززط",
+    "deliveryTime": "2",
+    "deliveryLocation": "درب شرکت",
+    "quotedAt": "2026-09-23T08:16:59.768Z"
+  },
+  {
+    "id": "ddd0d86c-cd6c-4a6e-b81b-8a388aaf6bf5",
+    "trackingCode": "252021",
+    "createdAt": "2026-09-21T12:31:15.433Z",
+    "updatedAt": "2026-09-21T12:32:11.850Z",
+    "status": "quoted",
+    "customerName": "زاده",
+    "companyName": "کربن استیل شهباز",
+    "phone": "09132083347",
+    "email": "Naghizadeh.co@gmail.com",
+    "address": "",
+    "items": [
+      {
+        "id": "2a0450fe-874d-4436-9968-51b240f4e171",
+        "description": "hvv",
+        "quantity": 19,
+        "unit": "عدد",
+        "unitPrice": 444444444,
+        "totalPrice": 8444444436
+      }
+    ],
+    "notes": "",
+    "validityDays": 7,
+    "validUntil": "2026-09-28T12:32:11.848Z",
+    "totalAmount": 8444444436,
+    "adminNotes": "",
+    "deliveryTime": "1",
+    "deliveryLocation": "محل شرکت",
+    "quotedAt": "2026-09-21T12:32:11.849Z"
+  }
+]
